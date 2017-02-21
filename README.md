@@ -14,4 +14,4 @@ available commands:
 * -gj uses Gauss-Jordan elimination algorithm for solving set of equations
 * -scr prints results to screen
 
-Full report from project is available in the [report](report.pdf) file
+Full report on a project is available in the [report](report.pdf) file
